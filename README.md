@@ -1,4 +1,6 @@
-# Central Inventory — Arquitetura Distribuída de Estoque com Kafka e Spring Boot
+# Central Inventory
+
+ Arquitetura Distribuída de Estoque com Kafka e Spring Boot
 
 ## Resumo
 
